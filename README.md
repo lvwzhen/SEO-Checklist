@@ -1,5 +1,7 @@
 # SEO Checklist
 
+English / [简体中文](./README_CN.md)
+
 ## 1. Basic Setup 🏗️
 
 ### Domain and Hosting 🌐
@@ -20,10 +22,12 @@
 - [ ] Use canonical tags to handle duplicate content
 - [ ] Set up and optimize a favicon
 
-### Google Search Console and Bing Webmaster Tools 📊
+### Search Engine Tools 📊
 - [ ] Set up Google Search Console
 - [ ] Set up Bing Webmaster Tools
-- [ ] Submit your sitemap to both tools
+- [ ] Submit website sitemap
+- [ ] Check for crawling errors
+- [ ] Analyze search traffic and keywords
 
 ## 2. Technical SEO ⚙️
 
